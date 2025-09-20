@@ -1,0 +1,5 @@
+{
+  "name": "EcoTrace - Carbon Footprint Tracker",
+  "description": "A web application to help users track their daily carbon footprint from transportation, energy, and food consumption. It provides real-time calculations, visual breakdowns, and personalized tips to encourage a more sustainable lifestyle.",
+  "requestFramePermissions": []
+}
